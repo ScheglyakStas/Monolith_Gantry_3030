@@ -6,7 +6,8 @@ Changes compared to the original:
 - 3030 extrusions and M8 screws for better rigidity
 - MGN12H rails on Y axis (due to MGN9 being incompatible with 3030)
 - X axis flipped by default, for use with CPAP toolheads like Gustav or Archetype Breakneck
-  
+- 
+The default size implies a 350x350mm build area, and has 361mm of Y axis travel.  
 As for now, the only version available is 9/10mm 2WD with decoupled motors.
 
 BOM and a non-decoupled version will be added soon.
