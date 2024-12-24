@@ -5,7 +5,8 @@ A remix of CloakedWayne's sheet metal Monolith Gantry using 3030 extrusions and 
 Changes compared to the original:
 - 3030 extrusions and M8 screws for better rigidity
 - MGN12H rails on Y axis (due to MGN9 being incompatible with 3030)
-
+- X axis flipped by default, for use with CPAP toolheads like Gustav or Archetype Breakneck
+  
 As for now, the only version available is 9/10mm 2WD with decoupled motors.
 
 BOM and a non-decoupled version will be added soon.
