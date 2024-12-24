@@ -1,5 +1,6 @@
 # Monolith_Gantry_3030
 A remix of CloakedWayne's Monolith Gantry using 3030 extrusions and MGN12H Y-axis rails, allowing it to be installed on 3030 frame printers.
+![2024-12-25_00-51-51](https://github.com/user-attachments/assets/9afdddef-a3fa-4fee-9246-59e1a6b2c77e)
 
 Changes compared to original:
 - Uses 3030 extrusions for better rigidity
@@ -8,3 +9,4 @@ Changes compared to original:
 As for now, the only version available is 9/10mm 2WD with decoupled motors.
 
 BOM and a non-decoupled version will be added soon.
+
